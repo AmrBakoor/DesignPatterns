@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\DesignPatterns\TemplateMethod\TemplateMethod.csproj", "{AD65A2C9-E0B7-4E27-8078-3C1D398EC7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\DesignPatterns\Strategy\Strategy.csproj", "{78893E26-2569-489A-BD93-1BAD6BDAAC80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD65A2C9-E0B7-4E27-8078-3C1D398EC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD65A2C9-E0B7-4E27-8078-3C1D398EC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD65A2C9-E0B7-4E27-8078-3C1D398EC7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD65A2C9-E0B7-4E27-8078-3C1D398EC7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78893E26-2569-489A-BD93-1BAD6BDAAC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78893E26-2569-489A-BD93-1BAD6BDAAC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78893E26-2569-489A-BD93-1BAD6BDAAC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78893E26-2569-489A-BD93-1BAD6BDAAC80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1892CD51-2A4C-45C8-A319-8243CA2F0305}
+	EndGlobalSection
+EndGlobal
