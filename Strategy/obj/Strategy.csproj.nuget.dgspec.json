@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj": {}
+    "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\Strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj": {
+    "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\Strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj",
+        "projectUniqueName": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\Strategy\\Strategy.csproj",
         "projectName": "Strategy",
-        "projectPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\Strategy\\Strategy.csproj",
+        "projectPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\Strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\B02820\\.nuget\\packages\\",
-        "outputPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\Strategy\\obj\\",
+        "outputPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\B02820\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll

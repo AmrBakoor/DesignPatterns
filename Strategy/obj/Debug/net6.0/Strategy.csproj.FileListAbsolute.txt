@@ -1,0 +1,15 @@
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.exe
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.deps.json
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.pdb
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\refint\Strategy.dll
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.pdb
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+\\solon.prd\files\P\Global\Users\B02820\UserData\Desktop\New folder\DesignPatterns\Strategy\obj\Debug\net6.0\ref\Strategy.dll

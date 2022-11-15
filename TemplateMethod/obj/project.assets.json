@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
+      "projectUniqueName": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
       "projectName": "TemplateMethod",
-      "projectPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
+      "projectPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\TemplateMethod\\TemplateMethod.csproj",
       "packagesPath": "C:\\Users\\B02820\\.nuget\\packages\\",
-      "outputPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\DesignPatterns\\TemplateMethod\\obj\\",
+      "outputPath": "\\\\solon.prd\\files\\P\\Global\\Users\\B02820\\UserData\\Desktop\\New folder\\DesignPatterns\\TemplateMethod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\B02820\\AppData\\Roaming\\NuGet\\NuGet.Config",
